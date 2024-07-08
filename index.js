@@ -1,3 +1,1 @@
-testing
-
-Added line from - Feature branch
+console.log("Welcome to GIT");
